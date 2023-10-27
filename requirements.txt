@@ -1,0 +1,15 @@
+streamlit
+# tensorflowjs
+# IPython.display
+pyaudio
+tensorflow
+keras
+numpy
+gtts
+opencv-python
+mediapipe
+argparse
+# opencv
+
+
+

@@ -1,0 +1,8 @@
+/* styles.css */
+
+/* Change the background color to light */
+body {
+    background-color: #f8f9fa; /* Light gray background */
+}
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
